@@ -1,4 +1,13 @@
 html {
-    background: aqua;
+    background: whitesmoke;
     color: darkgray;
+    text-align: center;
+}
+
+a {
+    color:aquamarine
+}
+
+a:hover {
+    color:black
 }
